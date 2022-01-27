@@ -1,5 +1,7 @@
 # Matching Memory (Redux & React)
 
+**Find live site here =>  [Matching Memory](https://realgordon.github.io/redux-react-matching-memory/)**
+
 This project explores where react-redux fits into an application.
 
 The application consists of 5 React components:
